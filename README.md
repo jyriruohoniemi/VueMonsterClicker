@@ -18,10 +18,11 @@ Made as a practice project to exercise the usage and features of Vue
 You fight a monster and have the ability to either attack, do a special attack, heal or surrender if you get bored
 
 ## Built With
-
-Vue.js
-HTML
-CSS
+<ul>
+<li>Vue.js</li>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
 
 ## Getting Started
 
