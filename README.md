@@ -32,4 +32,4 @@ Download the project and run the HTML file locally on your browser. You can also
 
 ## Author
 
-* **Jyri Ruohoniemi** - *BBA Student @ Tampere University of Applied Sciences* - [Jyri Ruohoniemi](https://github.com/jyri.ruohoniemi)
+* **Jyri Ruohoniemi** - *BBA Student @ Tampere University of Applied Sciences* - [Jyri Ruohoniemi](https://github.com/jyriruohoniemi)
