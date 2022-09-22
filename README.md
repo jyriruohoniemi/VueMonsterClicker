@@ -24,6 +24,8 @@ You fight a monster and have the ability to either attack, do a special attack, 
 <li>CSS</li>
 </ul>
 
+![alt text](https://github.com/jyriruohoniemi/VueMonsterClicker/blob/main/image.png)
+
 ## Getting Started
 
 Download the project and run the HTML file locally on your browser. You can also download <a href="https://devtools.vuejs.org/">Vue Devtools </a>as an extension to your browser if you want to inspect the project more closely
